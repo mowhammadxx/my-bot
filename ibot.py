@@ -7,8 +7,8 @@ import time
 import sys
 
 # 1️⃣ توکن ربات و آیدی چت رو جایگزین کن
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+TOKEN = "7949579672:AAGIdlRny3HrIVnGBCpJKhen5FLKXvV499o"
+CHAT_ID = "5227052757"
 
 # 2️⃣ مسیر فایل ذخیره‌سازی پیام‌ها
 STATE_FILE = "messages_state.json"
